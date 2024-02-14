@@ -128,7 +128,7 @@
           </h2>
         </div>
         <div class="work__wrapp">
-          <a href="#" class="work__item" data-speed="-110">
+          <a href="https://ussssagn1.github.io/LoftHouse/" class="work__item" data-speed="-110">
             <div class="work__item-img">
               <img src="../public/work/1.jpg" alt="">
             </div>
@@ -137,7 +137,7 @@
               <p class="work__item-desc">"LoftHouse" is a modern residential complex that offers high-quality housing in innovative and stylish architecture. This residential complex grabs attention with its unique design, amenities, and a distinctive concept of comfortable living.</p>
             </div>
           </a>
-          <a href="#" class="work__item" data-speed="-100">
+          <a href="https://ussssagn1.github.io/AirPods/" class="work__item" data-speed="-100">
             <div class="work__item-img">
               <img src="../public/work/2.jpg" alt="">
             </div>
@@ -146,7 +146,7 @@
               <p class="work__item-desc">The AirPods Max is Apple's premium over-ear wireless headphones that redefine audio excellence. These headphones combine cutting-edge technology with a sleek design, offering an unparalleled listening experience for audiophiles and Apple enthusiasts alike.</p>
             </div>
           </a>
-          <a href="#" class="work__item" data-speed="-130">
+          <a href="https://ussssagn1.github.io/Despire/" class="work__item" data-speed="-130">
             <div class="work__item-img">
               <img src="../public/work/3.jpg" alt="">
             </div>
@@ -155,13 +155,31 @@
               <p class="work__item-desc">"Despire Furniture" is an online platform that offers a wide range of stylish and contemporary furniture pieces for modern living spaces. With a focus on quality craftsmanship and innovative design, Despire Furniture aims to enhance the aesthetics and functionality of homes and offices.</p>
             </div>
           </a>
-          <a href="#" class="work__item" data-speed="-100">
+          <a href="https://ussssagn1.github.io/Globe/" class="work__item" data-speed="-100">
             <div class="work__item-img">
               <img src="../public/work/4.jpg" alt="">
             </div>
             <div class="work__item-text">
               <h4 class="work__item-title">Globe</h4>
               <p class="work__item-desc">"Globe Travel Agency" is a leading travel agency specializing in organizing trips and tours worldwide. This agency offers a wide range of services for travelers looking to explore new places and create unforgettable experiences.</p>
+            </div>
+          </a>
+          <a href="https://ussssagn1.github.io/criptonomicon/" class="work__item" data-speed="-100">
+            <div class="work__item-img">
+              <img src="../public/work/5.jpg" alt="">
+            </div>
+            <div class="work__item-text">
+              <h4 class="work__item-title">Cryptonomicon</h4>
+              <p class="work__item-desc">Our website is a cryptocurrency coin converter that provides real-time charts and utilizes websockets for seamless updates. Easily track the latest cryptocurrency exchange rates and monitor market trends with our user-friendly interface. Stay informed and make informed decisions with our comprehensive cryptocurrency conversion tool.</p>
+            </div>
+          </a>
+          <a href=" https://ussssagn1.github.io/vue-auth/" class="work__item" data-speed="-100">
+            <div class="work__item-img">
+              <img src="../public/work/6.jpg" alt="">
+            </div>
+            <div class="work__item-text">
+              <h4 class="work__item-title">VUE-AUTH-JWT</h4>
+              <p class="work__item-desc">Our website uses Vue.js for JWT token-based user authentication, with Firebase providing a secure and efficient solution. Enjoy seamless integration and enhanced security for your web application.</p>
             </div>
           </a>
         </div>
