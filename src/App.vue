@@ -6,7 +6,7 @@
   <div id="luxy" class="wrapp">
     <header class="header">
       <h1 class="title" data-splitting>
-        <span class="title__paralax">Portfolio website</span><span class="stroke">Hi, i'm Dima.</span>
+        <span class="title__paralax"><div style="white-space: nowrap;">Portfolio</div><div>website</div></span><span class="stroke">Hi, i'm Dima.</span>
       </h1>
       <div class="header__img">
         <img src="../public/about__img.jpg" alt="">
