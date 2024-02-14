@@ -96,27 +96,44 @@
           <ul class="skills__list">
             <li class="skills__item">
               <span class="skills__num" data-speed="-200">HTML</span>
-              <p class="skills__desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, dolor.</p>
+              <p class="skills__desc">With HTML, developers can define the structure of a document using various elements and tags that denote headings, paragraphs, lists, links, images, and other elements on a web page.</p>
+
             </li>
+
             <li class="skills__item">
               <span class="skills__num" data-speed="-150">CSS/SCSS</span>
-              <p class="skills__desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, dolor.</p>
+              <p class="skills__desc">With CSS and SCSS, developers can define the visual style of a website, including elements such as colors, fonts, margins, padding, and responsiveness.</p>
+
             </li>
             <li class="skills__item">
               <span class="skills__num" data-speed="-150">JS</span>
-              <p class="skills__desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, dolor.</p>
+              <p class="skills__desc">
+                I am proficient in basic JavaScript tasks that allow me to manipulate DOM elements, handle asynchronous operations, work with events, create functions, and use conditions. Although I am not a senior developer, I am actively developing my skills and striving to improve in the field of web development.</p>
+            </li>
+            <li class="skills__item">
+              <span class="skills__num" data-speed="-170">VUE.js</span>
+              <p class="skills__desc">The Progressive JavaScript Framework. An approachable, performant and versatile framework for building web user interfaces</p>
+
             </li>
             <li class="skills__item">
               <span class="skills__num" data-speed="-150">GULP</span>
-              <p class="skills__desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, dolor.</p>
+              <p class="skills__desc">I have knowledge in using the Gulp tool, which allows you to automate routine tasks in web development.</p>
+
             </li>
             <li class="skills__item">
               <span class="skills__num" data-speed="-230">BOOTSTRAP</span>
-              <p class="skills__desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, dolor.</p>
+              <p class="skills__desc">I have basic knowledge in using Bootstrap, one of the most popular frameworks for creating responsive and stylish web interfaces.</p>
+
             </li>
             <li class="skills__item">
               <span class="skills__num" data-speed="-170">GIT</span>
-              <p class="skills__desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, dolor.</p>
+              <p class="skills__desc">I am actively learning Git, a distributed version control system, and using it in my projects for efficient version control and collaboration.</p>
+
+            </li>
+            <li class="skills__item">
+              <span class="skills__num" data-speed="-170">GIT</span>
+              <p class="skills__desc">I am actively learning Git, a distributed version control system, and using it in my projects for efficient version control and collaboration.</p>
+
             </li>
           </ul>
         </div>
