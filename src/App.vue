@@ -97,9 +97,7 @@
             <li class="skills__item">
               <span class="skills__num" data-speed="-200">HTML</span>
               <p class="skills__desc">With HTML, developers can define the structure of a document using various elements and tags that denote headings, paragraphs, lists, links, images, and other elements on a web page.</p>
-
             </li>
-
             <li class="skills__item">
               <span class="skills__num" data-speed="-150">CSS/SCSS</span>
               <p class="skills__desc">With CSS and SCSS, developers can define the visual style of a website, including elements such as colors, fonts, margins, padding, and responsiveness.</p>
@@ -128,12 +126,10 @@
             <li class="skills__item">
               <span class="skills__num" data-speed="-170">GIT</span>
               <p class="skills__desc">I am actively learning Git, a distributed version control system, and using it in my projects for efficient version control and collaboration.</p>
-
             </li>
             <li class="skills__item">
-              <span class="skills__num" data-speed="-170">GIT</span>
-              <p class="skills__desc">I am actively learning Git, a distributed version control system, and using it in my projects for efficient version control and collaboration.</p>
-
+              <span class="skills__num" data-speed="-100">NODE.js</span>
+              <p class="skills__desc">Node.js® is an open-source, cross-platform JavaScript runtime environment</p>
             </li>
           </ul>
         </div>
@@ -207,7 +203,7 @@
             <span class="section-title__square"></span>
           </h2>
           <div class="serv__list">
-            <a href="">
+            <a href="https://github.com/ussssagn1">
               <div class="serv__item">
                 <span class="serv__item-arrow" data-speed="500">
                   <img src="../public/arrow.svg" alt="">
@@ -217,7 +213,7 @@
                 </div>
               </div>
             </a>
-            <a href="">
+            <a href="https://www.instagram.com/ussssssagn1/">
               <div class="serv__item">
                 <span class="serv__item-arrow" data-speed="400">
                   <img src="../public/arrow.svg" alt="">
@@ -227,7 +223,7 @@
                 </div>
               </div>
             </a>
-            <a href="">
+            <a href="https://t.me/usssagn1">
               <div class="serv__item">
                 <span class="serv__item-arrow" data-speed="800">
                   <img src="../public/arrow.svg" alt="">
@@ -237,13 +233,23 @@
                 </div>
               </div>
             </a>
-            <a href="">
+            <a href="https://www.facebook.com/profile.php?id=100010349164714">
               <div class="serv__item">
                 <span class="serv__item-arrow" data-speed="600">
                   <img src="../public/arrow.svg" alt="">
                 </span>
                 <div class="serv__item-desc">
                   <span class="serv__item-text">/facebook</span>
+                </div>
+              </div>
+            </a>
+            <a href="https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B7%D0%B0%D0%B9%D1%86%D0%B5%D0%B2-a46043290/">
+              <div class="serv__item">
+                <span class="serv__item-arrow" data-speed="600">
+                  <img src="../public/arrow.svg" alt="">
+                </span>
+                <div class="serv__item-desc">
+                  <span class="serv__item-text">/linkendin</span>
                 </div>
               </div>
             </a>
